@@ -25,7 +25,7 @@ en los que realmente me interesaron.
 **Autodidacta en:**
 
 - C++
-- WordPress
+- WordPress (Bloghash, Gutenberg)
 - Tailwind CSS para PHP
 - Gulp para PHP
 
