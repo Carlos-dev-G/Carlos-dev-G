@@ -11,10 +11,15 @@
 - SQL
 - C# (No fue mi favorito)
 
+```Note
+C# solo lo dejé para la constancia. Aunque no me acuerdo de nada del lenguaje porque no me gustó, decidí enfocarme en los que realmente me interesaron.
+```
+
 **Otros Estudios:**
 
 - Habilidades Digitales para la Empleabilidad (INEFOP)
 - Introducción a la Ciberseguridad (CISCO, DragonJAR)
+- Introducción a las Ciencias de la Computación (Plan Ceibal)
 
 **Autodidacta en:**
 
@@ -25,4 +30,4 @@
 
 ### Experiencia
 
-- Creación y personalización de blogs con WordPress, utilizando el tema Bloghash y Gutenberg.
+- Creación y personalización de blogs con WordPress, utilizando Bloghash y Gutenberg.
