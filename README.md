@@ -1,7 +1,3 @@
-Aquí tienes la versión actualizada:
-
----
-
 **Hola! Soy Carlos, también conocido como BAA4TS, un programador random más del montón.**
 
 ### Habilidades Técnicas
