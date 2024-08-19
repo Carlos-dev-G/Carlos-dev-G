@@ -12,7 +12,8 @@
 - C# (No fue mi favorito)
 
 ```Note
-C# solo lo dejé para la constancia. Aunque no me acuerdo de nada del lenguaje porque no me gustó, decidí enfocarme en los que realmente me interesaron.
+C# solo lo dejé para la constancia. Aunque no me acuerdo de nada del lenguaje porque no me gustó, decidí enfocarme
+en los que realmente me interesaron.
 ```
 
 **Otros Estudios:**
