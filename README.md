@@ -7,7 +7,7 @@
 - Python
 - PHP
 - JavaScript
-- HTML/CSS
+- HTML/CSS/Sass
 - SQL
 - C# (No fue mi favorito)
 
