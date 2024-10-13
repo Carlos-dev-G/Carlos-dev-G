@@ -1,22 +1,16 @@
-**Hola! Soy Carlos, también conocido como BAA4TS, un programador random más del montón.**
+**¡Hola! Soy Carlos, también conocido como BAA4TS, un programador entusiasta.**
 
 ### Habilidades Técnicas
 
-**Lenguajes y Tecnologías Estudiados:**
+**Lenguajes y Tecnologías:**
 
-- Python
-- PHP
-- JavaScript
-- HTML/CSS/Sass
-- SQL
-- C# (No fue mi favorito)
+- **Python**
+- **PHP**
+- **JavaScript**
+- **HTML/CSS/Sass**
+- **SQL**
 
-```Note
-C# solo lo dejé para la constancia. Aunque no me acuerdo de nada del lenguaje porque no me gustó, decidí enfocarme
-en los que realmente me interesaron.
-```
-
-**Otros Estudios:**
+**Formación Adicional:**
 
 - Habilidades Digitales para la Empleabilidad (INEFOP)
 - Introducción a la Ciberseguridad (CISCO, DragonJAR)
@@ -24,13 +18,19 @@ en los que realmente me interesaron.
 
 **Autodidacta en:**
 
-- C++
-- WordPress (Bloghash, Gutenberg)
-- Tailwind CSS para PHP
-- Gulp para PHP
+- **C++**
+- **WordPress** (Bloghash, Gutenberg)
+- **Tailwind CSS** para PHP
+- **Gulp** para PHP
 
 ### Experiencia
 
-- Creación y personalización de blogs con WordPress, utilizando Bloghash y Gutenberg.
+- Creación y personalización de blogs utilizando WordPress, empleando herramientas como Bloghash y Gutenberg.
 
-![Carlos-dev-G's Stats](https://github-readme-stats.vercel.app/api?username=Carlos-dev-G&theme=dracula&show_icons=true&hide_border=false&count_private=true)![Carlos-dev-G's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlos-dev-G&theme=dracula&hide_border=false)![Carlos-dev-G's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-dev-G&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+---
+
+![Carlos-dev-G's Stats](https://github-readme-stats.vercel.app/api?username=Carlos-dev-G&theme=dracula&show_icons=true&hide_border=false&count_private=true)  
+![Carlos-dev-G's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlos-dev-G&theme=dracula&hide_border=false)  
+![Carlos-dev-G's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-dev-G&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+---
