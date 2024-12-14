@@ -7,7 +7,7 @@
 - **Python**
 - **PHP**
 - **JavaScript**
-- **HTML/CSS/Sass**
+- **HTML/CSS**
 - **SQL**
 
 **Formación Adicional:**
@@ -20,8 +20,6 @@
 
 - **C++**
 - **WordPress** (Bloghash, Gutenberg)
-- **Tailwind CSS** para PHP
-- **Gulp** para PHP
 
 ### Experiencia
 
