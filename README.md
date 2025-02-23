@@ -16,24 +16,24 @@ Soy un programador con experiencia en backend utilizando Python y PHP, y con con
 ### 🛠️ Tech Stack
 
 **Lenguajes Principales:**
-- [Python](https://www.python.org/) ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)
-- [PHP](https://www.php.net/) ![PHP](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg)
-- [C++](https://docs.microsoft.com/en-us/cpp/) ![C++](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg)
+- [Python](https://www.python.org/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30">
+- [PHP](https://www.php.net/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="30" height="30">
+- [C++](https://docs.microsoft.com/en-us/cpp/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="30" height="30">
 
 **Frontend & CMS:**
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)
-- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) ![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)
-- [CSS3](https://www.w3.org/TR/CSS/#css) ![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)
-- [WordPress](https://wordpress.com) ![WordPress](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30">
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30">
+- [CSS3](https://www.w3.org/TR/CSS/#css) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30">
+- [WordPress](https://wordpress.com) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="30" height="30">
 
 **Bases de Datos:**
-- [MySQL](https://www.mysql.com/) ![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg)
-- [PostgreSQL](https://www.postgresql.org/) ![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg)
+- [MySQL](https://www.mysql.com/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="30">
+- [PostgreSQL](https://www.postgresql.org/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30">
 
 **Herramientas & Otros:**
-- [Git](https://git-scm.com/) ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)
-- [Neovim](https://neovim.io/) ![Neovim](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg)
-- [Django](https://www.djangoproject.com/) ![Django](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg)
+- [Git](https://git-scm.com/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30">
+- [Neovim](https://neovim.io/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="30" height="30">
+- [Django](https://www.djangoproject.com/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="30" height="30">
 
 ---
 
