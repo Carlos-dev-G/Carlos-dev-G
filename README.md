@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Backend Developer | Python & PHP Specialist
 ---------------------------------------------
 
-Soy un desarrollador backend con experiencia en Python y PHP, complementado con conocimientos frontend. Actualmente ampliando mis habilidades en scripting de automatización y networking.
+Soy un programador con experiencia en backend, utilizando Python y PHP, y tengo conocimientos básicos de front-end. Además, poseo conocimientos en C++ y WordPress.
 
 * 🌍  Ubicado en Uruguay
 * 🖥️  Portafolio: [carlos-dev-g.github.io](http://carlos-dev-g.github.io/)
 * 💼  Trabajando actualmente en proyectos como [Freelancer](https://www.freelancer.com/)
 * 📚  Aprendiendo: PowerShell Scripting (Microsoft Learn Platform)
-* 🏅  Certificación: Cisco Networking Essentials
 
 ### 🛠️ Tech Stack
 
