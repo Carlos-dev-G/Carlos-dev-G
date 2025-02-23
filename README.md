@@ -1,34 +1,45 @@
-**¡Hola! Soy Carlos, también conocido como BAA4TS, un programador entusiasta.**
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matcha CSS Demo</title>
+    <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Matcha.css</h1>
+        <p>Un framework minimalista y elegante.</p>
+    </header>
+    
+    <main>
+        <h2>Características</h2>
+        <p>Matcha.css te permite estilizar tu web sin clases CSS adicionales. Solo usa HTML semántico y el framework se encargará del diseño.</p>
 
-### Habilidades Técnicas
+        <h2>Ejemplo de tabla</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Edad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Ana</td>
+                    <td>25</td>
+                </tr>
+                <tr>
+                    <td>Juan</td>
+                    <td>30</td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
 
-**Lenguajes y Tecnologías:**
+    <footer>
+        <p>© 2025 - Sitio con Matcha.css</p>
+    </footer>
+</body>
+</html>
 
-- **Python**
-- **PHP**
-- **JavaScript**
-- **HTML/CSS**
-- **SQL**
-
-**Formación Adicional:**
-
-- Habilidades Digitales para la Empleabilidad (INEFOP)
-- Introducción a la Ciberseguridad (CISCO, DragonJAR)
-- Introducción a las Ciencias de la Computación (Plan Ceibal)
-
-**Autodidacta en:**
-
-- **C++**
-- **WordPress** (Bloghash, Gutenberg)
-
-### Experiencia
-
-- Creación y personalización de blogs utilizando WordPress, empleando herramientas como Bloghash y Gutenberg.
-
----
-
-![Carlos-dev-G's Stats](https://github-readme-stats.vercel.app/api?username=Carlos-dev-G&theme=dracula&show_icons=true&hide_border=false&count_private=true)  
-![Carlos-dev-G's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlos-dev-G&theme=dracula&hide_border=false)  
-![Carlos-dev-G's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-dev-G&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
----
