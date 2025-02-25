@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Backend Developer | Python & PHP Specialist
 ---------------------------------------------
 
-Soy un programador con experiencia en backend, utilizando Python y PHP, y tengo conocimientos básicos de front-end. Además también, poseo conocimientos en C++ y WordPress.
-
+Soy un programador con experiencia en backend, utilizando Python y PHP, y tengo conocimientos básicos de front-end.
 * 🌍  Ubicado en Uruguay
 * 🖥️  Portafolio: [Link](https://carlos--dev.vercel.app/portfolio/)
 * 💼  Trabajando actualmente en proyectos como Freelancer]
